@@ -1,0 +1,63 @@
+{
+  "penguin": {
+    "breath": {
+      "frames": [
+        0,
+        1
+      ],
+      "frameRate": 2,
+      "loop": true
+    },
+    "hop": {
+      "frames": [
+        2,
+        3,
+        4
+      ],
+      "frameRate": 10,
+      "loop": false
+    },
+    "wink": {
+      "frames": [
+        5
+      ],
+      "frameRate": 1,
+      "loop": false
+    }
+  },
+  "snowman": {
+    "walk": {
+      "frames": [
+        0,
+        1,
+        2
+      ],
+      "frameRate": 6,
+      "loop": true
+    }
+  },
+  "seal": {
+    "swim": {
+      "frames": [
+        0,
+        1
+      ],
+      "frameRate": 4,
+      "loop": true
+    }
+  },
+  "coin": {
+    "spin": {
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "frameRate": 12,
+      "loop": true
+    }
+  }
+}
