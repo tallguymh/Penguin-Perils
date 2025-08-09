@@ -1,0 +1,6 @@
+
+body { margin:0; background:#000; font-family:Courier,monospace; }
+#ui-root { position: absolute; top: 8px; right: 8px; z-index: 1000; }
+.toolbar { display:flex; gap:8px; background: rgba(0,0,0,0.4); padding:8px; border-radius:8px; }
+.toolbar button { padding:8px 12px; font-size:14px; border-radius:6px; border:1px solid #666; color:#fff; background:#222; }
+.file-input { display:none; }
